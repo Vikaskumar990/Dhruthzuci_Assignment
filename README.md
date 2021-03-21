@@ -11,3 +11,6 @@ Technology to be used:
 Language -  Flutter, Database - firebase(cloud firestore)
 
 still working on this project..... 
+
+project video link:
+https://youtu.be/yXE6c9F7EZw
